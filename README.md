@@ -32,6 +32,25 @@ The following projects represent some of the strongest hands-on investigations a
 
 ---
 
+# 📈 Portfolio Statistics
+
+This portfolio documents a structured 28-day cybersecurity learning journey through hands-on labs, investigations, and incident response exercises.
+
+| Metric | Value |
+|---------|:-----:|
+| 📅 Learning Days | **28** |
+| 📁 Investigation Projects | **10+** |
+| 🛡️ Detection Engineering Labs | **4** |
+| 🔍 DFIR Investigations | **5** |
+| ☁️ Cloud Security Labs | **3** |
+| 📸 Evidence Screenshots | **150+** |
+| 📝 Investigation Reports | **20+** |
+| 🛠️ Security Tools Used | **10+** |
+| 🎯 MITRE ATT&CK Techniques Covered | **25+** |
+| 📚 Technical Documentation | **30+ Markdown Files** |
+
+---
+
 # 🎯 Learning Objectives
 
 Throughout this portfolio, I focused on developing practical skills in:
