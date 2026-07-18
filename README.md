@@ -220,6 +220,26 @@ Through this portfolio, I developed practical experience in:
 
 ---
 
+# 🚀 Phase 2 Learning Roadmap (12 Weeks)
 
+Following the completion of this 28-day SOC & DFIR learning portfolio, I will continue expanding my practical cybersecurity skills through a structured 12-week roadmap focused on enterprise security operations, cloud security, advanced threat detection, and digital forensics.
 
+| Week | Theme | Expected Outcome |
+|------|-------|------------------|
+| **Week 1** | Linux Security Fundamentals | Perform Linux log analysis and security investigations |
+| **Week 2** | Linux Threat Hunting | Investigate SSH activity, sudo abuse, cron jobs, and persistence mechanisms |
+| **Week 3** | AWS Security Fundamentals | Build foundational knowledge of IAM, VPC, and CloudTrail |
+| **Week 4** | AWS Threat Detection | Investigate GuardDuty findings, Security Hub alerts, and IAM abuse scenarios |
+| **Week 5** | Microsoft Defender XDR | Conduct endpoint investigations using Microsoft Defender XDR |
+| **Week 6** | Microsoft Sentinel & KQL | Develop cloud SIEM investigations and KQL-based threat hunting skills |
+| **Week 7** | Active Directory Security | Analyze authentication events, privilege escalation, and lateral movement techniques |
+| **Week 8** | Splunk Enterprise Security | Build enterprise SOC investigation workflows using Splunk ES |
+| **Week 9** | Threat Intelligence | Perform IOC enrichment and integrate Cyber Threat Intelligence into investigations |
+| **Week 10** | Detection Engineering | Develop Sigma rules, YARA rules, and ATT&CK-based detections |
+| **Week 11** | Advanced DFIR | Investigate memory artifacts, registry evidence, and correlate multiple forensic sources |
+| **Week 12** | Capstone SOC Simulation | Complete an end-to-end enterprise SOC investigation portfolio demonstrating skills gained throughout the roadmap |
+
+> **Goal:** Continue building a comprehensive, hands-on cybersecurity portfolio aligned with modern SOC Analyst, Threat Hunter, and DFIR Analyst roles.
+
+---
 
