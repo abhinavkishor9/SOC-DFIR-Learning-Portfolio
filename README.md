@@ -166,4 +166,4 @@ Through this portfolio, I developed practical experience in:
 
 
 
-⭐ *Thank you for visiting my portfolio! Feedback and suggestions are always welcome.*
+
