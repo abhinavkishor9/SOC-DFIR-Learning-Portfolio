@@ -13,6 +13,24 @@ This repository documents my structured 28-day learning journey as I transitione
 Each day's learning is documented with detailed notes, investigation workflows, and supporting screenshots captured during lab activities. The portfolio emphasizes practical understanding of security monitoring, log analysis, threat hunting, incident response, and digital forensics using industry-standard tools.
 
 ---
+---
+
+# ⭐ Featured Projects
+
+The following projects represent some of the strongest hands-on investigations and security analyses completed during this learning journey.
+
+| Project | Focus Area | Skills Demonstrated |
+|----------|------------|---------------------|
+| 🔐 Credential Theft Investigation | Windows Security | Threat Hunting, Log Analysis, Incident Response |
+| 🖥️ Windows Autoruns Persistence | Windows DFIR | Persistence Analysis, Registry Investigation |
+| 🌐 Browser Download Forensics | Windows DFIR | Timeline Analysis, File System Forensics |
+| 🦠 Safe Malware Triage | Malware Analysis | IOC Identification, Process Analysis |
+| 📥 LOLBAS (`certutil.exe`) Investigation | Threat Hunting | Detection Engineering, Windows Event Analysis |
+| 🔑 Windows Authentication Investigation | Windows Security | Authentication Analysis, Event Correlation |
+
+> Each project contains a detailed README, investigation methodology, evidence collected, timeline, MITRE ATT&CK mapping, findings, and recommendations.
+
+---
 
 # 🎯 Learning Objectives
 
