@@ -163,6 +163,25 @@ The **Screenshots** folder contains evidence collected during the labs, includin
 
 ---
 
+# 📊 Skills Matrix
+
+The table below maps key cybersecurity skills to the hands-on investigations and labs completed throughout this portfolio.
+
+| Skill Area | Evidence | Tools Used | Primary Competencies |
+|------------|----------|------------|----------------------|
+| SIEM Monitoring | Wazuh Threat Hunting Labs | Wazuh | Event Monitoring, Alert Analysis |
+| Threat Hunting | Certutil (LOLBAS) Investigation | Sysmon, Wazuh | IOC Identification, Process Analysis |
+| Windows DFIR | Browser Download Forensics | Windows Event Viewer, Sysmon | Timeline Analysis, Artifact Investigation |
+| Incident Response | Windows Authentication Investigation & IR Playbook | Windows Event Logs, Wazuh | Incident Analysis, Log Correlation |
+| Detection Engineering | Sigma Rule Development Labs | Sigma, Wazuh | Detection Logic, Rule Creation |
+| MITRE ATT&CK Mapping | Multiple SOC & DFIR Investigations | MITRE ATT&CK | Adversary Mapping, Threat Classification |
+| PowerShell Analysis | PowerShell Detection Engineering Labs | Sysmon, Wazuh | Script Analysis, Command-Line Monitoring |
+| Malware Triage | Safe Malware Triage Investigation | Windows Defender, Sysmon | IOC Identification, Initial Malware Assessment |
+| Persistence Analysis | Windows Autoruns Persistence Investigation | Autoruns, Sysmon | Persistence Detection, Registry Analysis |
+| Cloud Security Monitoring | AWS Cloud Security Labs | AWS CloudTrail, GuardDuty | Cloud Log Analysis, IAM Monitoring |
+
+---
+
 # 💡 Skills Demonstrated
 
 Through this portfolio, I developed practical experience in:
